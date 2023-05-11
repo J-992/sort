@@ -13,3 +13,7 @@ Counting Sort is the fastest but loses efficiency when used to sort large datase
 
 
 NOTE: Exponential search algorithms are horribly inefficient and barely work in my experience.
+
+---------------------UPDATE (AS OF MAY 2023)------------------------
+
+These files are some search and sort algorithms I played around with in highschool
